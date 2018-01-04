@@ -1,0 +1,1 @@
+*vault* merge=binary diff=ansible-vault filter=ansible-vault
